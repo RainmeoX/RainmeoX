@@ -23,7 +23,7 @@ Currently building real-time vision and control systems for robotics application
 ## 🧱 Projects
 
 ### 🖥️ Embedded Vision System
-Real-time detection system based on AI vision development board.
+Real-time embedded vision system for object detection and coordinate extraction.
 
 ### 📱 Software System
 WeChat mini program (rural service / e-government system).
@@ -34,17 +34,14 @@ Analog audio amplifier circuit design and optimization.
 ---
 
 ## 🛠️ Tech Stack
-- Programming: C / C++ / Python  
-- Focus: Embedded Systems, Computer Vision  
-- Hardware: Circuit Design (EDA)
+
+![Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,git,github)
 
 ---
 
-## 📊 GitHub Stats
+## 📦 Featured Project
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RainmeoX&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainmeoX)
+![K230 Vision System](https://github-readme-stats.vercel.app/api/pin/?username=RainmeoX&repo=embedded-vision-k230)
 
 ---
 
