@@ -34,13 +34,14 @@ Analog audio amplifier circuit design and optimization.
 ---
 
 ## 🛠️ Tech Stack
-C / C++ / Python / Embedded Linux / UART / SPI / Computer Vision / Circuit Design
-
+Programming: C / C++ / Python  
+Focus: Embedded Systems, Computer Vision  
+Hardware: Circuit Design (EDA)
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RainmeoX&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=RainmeoX&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainmeoX)
 
