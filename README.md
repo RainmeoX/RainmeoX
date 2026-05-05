@@ -39,10 +39,14 @@ Analog audio amplifier circuit design and optimization.
 
 ---
 
-## 📦 Featured Project
+## 🤖 Vision System
 
-![K230 Vision System](https://github-readme-stats.vercel.app/api/pin/?username=RainmeoX&repo=embedded-vision-k230)
+[![Project](https://img.shields.io/badge/Embedded%20Vision-K230-blueviolet?style=for-the-badge&logo=github)](https://github.com/RainmeoX/embedded-vision-k230)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]
+[![Type](https://img.shields.io/badge/Type-Embedded%20AI-orange?style=for-the-badge)]
 
+基于 K230 平台的实时嵌入式视觉系统，用于目标检测与坐标提取，实现机器人视觉感知与控制。  
+*Real-time embedded vision system based on the K230 platform for object detection and coordinate extraction.*
 ---
 
 ## 📈 Activity Graph
