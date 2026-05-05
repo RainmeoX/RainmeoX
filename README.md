@@ -34,9 +34,10 @@ Analog audio amplifier circuit design and optimization.
 ---
 
 ## 🛠️ Tech Stack
-Programming: C / C++ / Python  
-Focus: Embedded Systems, Computer Vision  
-Hardware: Circuit Design (EDA)
+- Programming: C / C++ / Python  
+- Focus: Embedded Systems, Computer Vision  
+- Hardware: Circuit Design (EDA)
+
 ---
 
 ## 📊 GitHub Stats
