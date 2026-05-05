@@ -40,15 +40,15 @@ C / C++ / Python / Embedded Linux / UART / SPI / Computer Vision / Circuit Desig
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=RainmeoX&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RainmeoX)
 
 ---
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=github)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RainmeoX&theme=github)
 
 ---
 
