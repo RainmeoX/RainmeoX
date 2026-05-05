@@ -1,16 +1,54 @@
-## Hi there 👋
+# Rainmeo
 
-<!--
-**RainmeoX/RainmeoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems & Vision Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+- Embedded systems development
+- Computer vision & real-time image processing
+- Hardware circuit design
+- System integration
+
+---
+
+## ⚙️ Current Focus
+- Embedded vision system based on K230 platform
+- Real-time object detection and coordinate extraction
+- UART communication for robotics systems
+- Audio amplifier hardware design
+
+---
+
+## 🧱 Projects
+
+### 🖥️ Embedded Vision System
+- Based on K230 AI vision development board
+- Real-time detection & data transmission
+
+### 📱 WeChat Mini Program
+- Rural e-government system (competition project)
+- Full application design and implementation
+
+### 🔊 Audio Amplifier Project
+- Analog circuit design
+- Signal optimization and noise reduction
+
+---
+
+## 🛠️ Tech Stack
+- C / C++ / Python
+- Embedded Linux
+- UART / serial communication
+- Basic computer vision
+- Analog electronics
+
+---
+
+## 📊 Status
+Building embedded and hardware-software integrated systems.
+
+---
+
+## 📫 Contact
+GitHub: https://github.com/rainmeox
