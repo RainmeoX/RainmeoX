@@ -1,14 +1,14 @@
-# Rainmeo
+# RainmeoX
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=RainmeoX&fontSize=50)
 
 Embedded Systems & Vision Developer
 
 ---
 
-## 🧠 Interests
-- Embedded systems development
-- Computer vision & real-time image processing
-- Hardware circuit design
-- System integration
+## 🧠 About Me
+I focus on embedded systems, computer vision, and hardware-software integration.  
+Currently building real-time vision and control systems for robotics applications.
 
 ---
 
@@ -16,39 +16,41 @@ Embedded Systems & Vision Developer
 - Embedded vision system based on K230 platform
 - Real-time object detection and coordinate extraction
 - UART communication for robotics systems
-- Audio amplifier hardware design
+- Hardware circuit design and signal processing
 
 ---
 
 ## 🧱 Projects
 
 ### 🖥️ Embedded Vision System
-- Based on K230 AI vision development board
-- Real-time detection & data transmission
+Real-time detection system based on AI vision development board.
 
-### 📱 WeChat Mini Program
-- Rural e-government system (competition project)
-- Full application design and implementation
+### 📱 Software System
+WeChat mini program (rural service / e-government system).
 
-### 🔊 Audio Amplifier Project
-- Analog circuit design
-- Signal optimization and noise reduction
+### 🔊 Hardware Project
+Analog audio amplifier circuit design and optimization.
 
 ---
 
 ## 🛠️ Tech Stack
-- C / C++ / Python
-- Embedded Linux
-- UART / serial communication
-- Basic computer vision
-- Analog electronics
+C / C++ / Python / Embedded Linux / UART / SPI / Computer Vision / Circuit Design
 
 ---
 
-## 📊 Status
-Building embedded and hardware-software integrated systems.
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名)
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=github)
 
 ---
 
 ## 📫 Contact
-GitHub: https://github.com/rainmeox
+GitHub: https://github.com/你的用户名
