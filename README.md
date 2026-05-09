@@ -6,7 +6,7 @@ Embedded Systems & Vision Developer
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I focus on embedded systems, computer vision, and hardware-software integration.  
 Currently building real-time vision and control systems for robotics applications.
@@ -15,23 +15,20 @@ Currently building real-time vision and control systems for robotics application
 
 ---
 
-## ⚙️ Current Focus
+## Current Focus
 
-- Embedded vision system based on K230 platform
-- Real-time object detection and coordinate extraction
-- UART communication for robotics systems
-- Hardware circuit design and signal processing
-
-- 基于 K230 平台的嵌入式视觉系统
-- 实时目标检测与坐标提取
-- 机器人系统的串口通信
-- 硬件电路设计与信号处理
+| English | 中文 |
+|---------|------|
+| Embedded vision system based on K230 platform | 基于 K230 平台的嵌入式视觉系统 |
+| Real-time object detection and coordinate extraction | 实时目标检测与坐标提取 |
+| UART communication for robotics systems | 机器人系统的串口通信 |
+| Hardware circuit design and signal processing | 硬件电路设计与信号处理 |
 
 ---
 
-## 🧱 Projects
+## Projects
 
-### 🖥️ Embedded Vision System
+### Embedded Vision System
 
 **[K230-Vision-System](https://github.com/RainmeoX/K230-Vision-System)**
 
@@ -39,7 +36,7 @@ Real-time embedded vision system for object detection and coordinate extraction.
 
 基于 K230 平台的实时嵌入式视觉系统，用于目标检测与坐标提取，实现机器人视觉感知与控制。
 
-### 📱 Software System
+### Software System
 
 **[wechat-mini-program](https://github.com/RainmeoX/wechat-mini-program)**
 
@@ -47,7 +44,7 @@ WeChat mini program (rural service / e-government system).
 
 微信小程序 - 青智益村（乡村政务服务系统）
 
-### 🔐 Security Learning
+### Security Learning
 
 **[Web-Security-Learning](https://github.com/RainmeoX/Web-Security-Learning)**
 
@@ -57,13 +54,13 @@ Network security learning project.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,git,github)
 
 ---
 
-## 🤖 Vision System
+## Vision System
 
 [![Embedded Vision K230](https://img.shields.io/badge/K230-Vision%20System-blueviolet?style=for-the-badge&logo=github)](https://github.com/RainmeoX/K230-Vision-System)
 
@@ -72,31 +69,31 @@ Network security learning project.
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RainmeoX&theme=github)
 
 ---
 
-## 📜 License Notice
+## License Notice
 
 ### My Projects
 
 For all my projects:
 
-- 📝 **Personal/Non-commercial use** - Feel free to use with attribution
-- 💼 **Commercial use** - Please contact me first for authorization
+- **Personal/Non-commercial use** - Feel free to use with attribution
+- **Commercial use** - Please contact me first for authorization
 
 ### 我的项目
 
 我的所有项目：
 
-- 📝 **个人/非商业用途** - 可以自由使用，保留署名即可
-- 💼 **商业用途** - 请先联系我获得授权
+- **个人/非商业用途** - 可以自由使用，保留署名即可
+- **商业用途** - 请先联系我获得授权
 
 ---
 
-## 📫 Contact
+## Contact
 
 GitHub: https://github.com/RainmeoX
 
