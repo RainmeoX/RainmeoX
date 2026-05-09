@@ -1,57 +1,32 @@
-# RainmeoX
+# 你好！我是 RainmeoX 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=RainmeoX&fontSize=50)
+欢迎来到我的 GitHub 主页！
 
-Embedded Systems & Vision Developer
+## 关于我
 
----
+- 🌱 对技术充满热情
+- 💻 喜欢做有趣的项目
+- 🎯 持续学习中...
 
-## 🧠 About Me
-I focus on embedded systems, computer vision, and hardware-software integration.  
-Currently building real-time vision and control systems for robotics applications.
+## 我的项目
 
----
+| 项目 | 说明 |
+|------|------|
+| [K230-Vision-System](https://github.com/RainmeoX/K230-Vision-System) | 基于 K230 的视觉检测系统 |
+| [Web-Security-Learning](https://github.com/RainmeoX/Web-Security-Learning) | 网络安全学习项目 |
+| [wechat-mini-program](https://github.com/RainmeoX/wechat-mini-program) | 微信小程序 - 青智益村 |
 
-## ⚙️ Current Focus
-- Embedded vision system based on K230 platform
-- Real-time object detection and coordinate extraction
-- UART communication for robotics systems
-- Hardware circuit design and signal processing
+## 联系我
 
----
+你可以通过以下方式联系我：
+- GitHub: [@RainmeoX](https://github.com/RainmeoX)
 
-## 🧱 Projects
+## 关于我的项目
 
-### 🖥️ Embedded Vision System
-Real-time embedded vision system for object detection and coordinate extraction.
+📝 个人/非商业用途可以自由使用，保留署名即可
 
-### 📱 Software System
-WeChat mini program (rural service / e-government system).
-
-### 🔊 Hardware Project
-Analog audio amplifier circuit design and optimization.
+💼 商业用途需要先联系我获得授权
 
 ---
 
-## 🛠️ Tech Stack
-
-![Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,git,github)
-
----
-
-## 🤖 Vision System
-
-[![Embedded Vision K230](https://img.shields.io/badge/K230-Vision%20System-blueviolet?style=for-the-badge&logo=github)](https://github.com/RainmeoX/embedded-vision-k230)
-
-基于 K230 平台的实时嵌入式视觉系统，用于目标检测与坐标提取，实现机器人视觉感知与控制。  
-*Real-time embedded vision system based on the K230 platform for object detection and coordinate extraction.*
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RainmeoX&theme=github)
-
----
-
-## 📫 Contact
-GitHub: https://github.com/RainmeoX
+谢谢访问！
