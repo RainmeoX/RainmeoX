@@ -1,100 +1,202 @@
-# RainmeoX
+<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=RainmeoX&fontSize=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e2a900,100:ffd93d&height=180&section=header&text=RainmeoX&fontSize=70&fontColor=0a0a0a&desc=Embedded%20%26%20AI%20Developer%20%7C%20AMD%20ROCm%20Practitioner&descSize=16&descAlignY=70" width="100%"/>
 
-Embedded Systems & Vision Developer
+</div>
 
----
+<div align="center">
 
-## About Me
+🎯 嵌入式系统 & AI 大模型开发 ｜ ⚡ AMD ROCm 生态实践者 ｜ 🤖 角色扮演 AI 助手
 
-I focus on embedded systems, computer vision, and hardware-software integration.  
-Currently building real-time vision and control systems for robotics applications.
-
-我专注于嵌入式系统、计算机视觉和软硬件结合，目前在为机器人应用构建实时视觉和控制系统。
+</div>
 
 ---
 
-## Current Focus
+<div align="center">
 
-| English | 中文 |
-|---------|------|
-| Embedded vision system based on K230 platform | 基于 K230 平台的嵌入式视觉系统 |
-| Real-time object detection and coordinate extraction | 实时目标检测与坐标提取 |
-| UART communication for robotics systems | 机器人系统的串口通信 |
-| Hardware circuit design and signal processing | 硬件电路设计与信号处理 |
+![Profile Views](https://komarev.com/ghpvc/?username=RainmeoX&color=ffd93d&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/RainmeoX?style=flat-square&color=ffd93d)
+![GitHub repos](https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=public_repos&url=https://api.github.com/users/RainmeoX&style=flat-square&color=ffd93d)
 
----
+</div>
 
-## Projects
+## 🧑‍💻 关于我
 
-### Embedded Vision System
+我是一名开发者，专注于**嵌入式系统、计算机视觉**，近期深耕 **AMD ROCm 生态下的大模型微调与部署**。喜欢把硬件能力和 AI 模型结合起来做有趣的项目——从 K230 芯片的边缘视觉检测，到 AMD 显卡上跑 Qwen3、Gemma4 的 LoRA 微调，再到给游戏角色训练专属 AI 助手。
 
-**[K230-Vision-System](https://github.com/RainmeoX/K230-Vision-System)**
-
-Real-time embedded vision system for object detection and coordinate extraction.
-
-基于 K230 平台的实时嵌入式视觉系统，用于目标检测与坐标提取，实现机器人视觉感知与控制。
-
-### Software System
-
-**[wechat-mini-program](https://github.com/RainmeoX/wechat-mini-program)**
-
-WeChat mini program (rural service / e-government system).
-
-微信小程序 - 青智益村（乡村政务服务系统）
-
-### Security Learning
-
-**[Web-Security-Learning](https://github.com/RainmeoX/Web-Security-Learning)**
-
-Network security learning project.
-
-网络安全学习项目
+- 🔭 当前在做：绝区零「仪玄」角色助手（Qwen3-4B + LoRA + vLLM + ZZZ 风格 WebUI）
+- 🌱 学习方向：AMD ROCm 生态、大模型微调与推理优化、RAG 检索增强
+- 💬 擅长：Python / PyTorch / LoRA / vLLM / C++ / 嵌入式开发
+- 📫 联系：GitHub Issues 或 CSDN [@Rainmeo](https://blog.csdn.net/m0_67166125)
+- ⚡ Fun fact: 用 AMD 显卡训大模型，性价比真的高
 
 ---
 
-## Tech Stack
+## 🚀 项目精选
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,git,github)
+### 🤖 AI 大模型（AMD ROCm 方向）
+
+<table>
+<tr>
+<td width="50%">
+
+**[zzz-yixuan-assistant](https://github.com/RainmeoX/zzz-yixuan-assistant)** 🎮
+
+绝区零「仪玄」角色助手后端
+
+Qwen3-4B + LoRA 微调 + vLLM 部署 + RAG 检索 + 防 OOC 校验器
+
+`#AMD ROCm` `#LoRA` `#vLLM` `#RAG`
+
+</td>
+<td width="50%">
+
+**[zzz-yixuan-webui](https://github.com/RainmeoX/zzz-yixuan-webui)** 🎨
+
+绝区零风格 WebUI 前端
+
+纯原生 HTML/CSS/JS，ZZZ 官网风格（黄黑撞色+斜切角+故障艺术）
+
+`#前端` `#ZZZ风格` `#流式对话`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[gemma4-emotion-lora-rocm](https://github.com/RainmeoX/gemma4-emotion-lora-rocm)** 😊
+
+Gemma 4 情绪分类微调
+
+Datawhale × AMD ROCm 实战，单卡微调 Gemma 4 E4B 完成 6 类情绪分类
+
+`#AMD ROCm` `#Gemma4` `#情绪分类`
+
+</td>
+<td width="50%">
+
+**[arknights-qwen-assistant](https://github.com/RainmeoX/arknights-qwen-assistant)** 🛡️
+
+明日方舟干员问答助手
+
+Qwen3-0.6B + LoRA 微调，干员信息问答
+
+`#Qwen3` `#LoRA` `#问答助手`
+
+</td>
+</tr>
+</table>
+
+### 🔧 嵌入式 & 应用开发
+
+<table>
+<tr>
+<td width="50%">
+
+**[K230-Vision-System](https://github.com/RainmeoX/K230-Vision-System)** 👁️
+
+K230 AI 芯片视觉检测系统
+
+三角形/圆形/矩形检测、二维码识别、UART 串口通信
+
+`#嵌入式` `#计算机视觉` `#K230`
+
+</td>
+<td width="50%">
+
+**[wechat-mini-program](https://github.com/RainmeoX/wechat-mini-program)** 📱
+
+青智益村微信小程序
+
+乡村政务服务系统
+
+`#微信小程序` `#政务服务`
+
+</td>
+</tr>
+</table>
+
+### 📚 数据集 & 工具
+
+<details>
+<summary>点击展开</summary>
+
+- **[zzz-yixuan-dataset](https://github.com/RainmeoX/zzz-yixuan-dataset)** - 绝区零仪玄角色资料数据集（40 条台词、21 个技能、1700 字背景故事）
+- **[arknights-dataset](https://github.com/RainmeoX/arknights-dataset)** - 明日方舟干员数据集
+- **[Web-Security-Learning](https://github.com/RainmeoX/Web-Security-Learning)** - 网络安全学习项目
+
+</details>
 
 ---
 
-## Vision System
+## 🛠️ 技术栈
 
-[![Embedded Vision K230](https://img.shields.io/badge/K230-Vision%20System-blueviolet?style=for-the-badge&logo=github)](https://github.com/RainmeoX/K230-Vision-System)
+<div align="center">
 
-基于 K230 平台的实时嵌入式视觉系统，用于目标检测与坐标提取，实现机器人视觉感知与控制。
-*Real-time embedded vision system based on the K230 platform for object detection and coordinate extraction.*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AMD ROCm](https://img.shields.io/badge/AMD%20ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=v&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-FFD93D?style=for-the-badge&logo=l&logoColor=black)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
----
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RainmeoX&theme=github)
-
----
-
-## License Notice
-
-### My Projects
-
-For all my projects:
-
-- **Personal/Non-commercial use** - Feel free to use with attribution
-- **Commercial use** - Please contact me first for authorization
-
-### 我的项目
-
-我的所有项目：
-
-- **个人/非商业用途** - 可以自由使用，保留署名即可
-- **商业用途** - 请先联系我获得授权
+</div>
 
 ---
 
-## Contact
+## 📊 GitHub 统计
 
-GitHub: https://github.com/RainmeoX
+<div align="center">
 
-You can reach out via GitHub Issues or Discussions!
+<img src="https://github-readme-stats.vercel.app/api?username=RainmeoX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=ffd93d&icon_color=ffd93d&text_color=ffffff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RainmeoX&theme=chartreuse-dark&hide_border=true&background=0A0A0A&ring=FFD93D&fire=FFD93D&currStreakLabel=FFD93D" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainmeoX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=ffd93d&text_color=ffffff" height="170"/>
+
+</div>
+
+---
+
+## 📝 最新文章
+
+<table>
+<tr>
+<td>
+
+📖 **[绝区零「仪玄」角色助手微调实录：AMD ROCm 单卡 + Qwen3-4B LoRA 全流程](https://blog.csdn.net/m0_67166125/article/details/162312178)**
+
+用 AMD RX 7900 XTX 单卡微调 Qwen3-4B，vLLM 部署 + RAG + 防 OOC，全流程实录
+
+</td>
+</tr>
+<tr>
+<td>
+
+📖 **[【实战】用纯前端打造绝区零风格 AI 角色助手 WebUI 并联调 vLLM](https://blog.csdn.net/m0_67166125/article/details/162312263)**
+
+纯原生 HTML/CSS/JS 打造 ZZZ 风格 WebUI，流式对话 + RAG 开关 + vLLM 联调
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e2a900,100:ffd93d&height=120&section=footer&fontSize=0" width="100%"/>
+
+**感谢访问我的主页！如果喜欢我的项目，欢迎 ⭐ Star 支持**
+
+</div>
