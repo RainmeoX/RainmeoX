@@ -2,7 +2,7 @@
 
 # RainmeoX
 
-### 🎯 嵌入式系统 & AI 大模型开发 ｜ ⚡ AMD ROCm 生态实践者 ｜ 🤖 角色扮演 AI 助手
+### 嵌入式系统 & AI 大模型开发 ｜ AMD ROCm 生态实践者 ｜ 角色扮演 AI 助手
 
 </div>
 
@@ -16,27 +16,27 @@
 
 </div>
 
-## 🧑‍💻 关于我
+## 关于我
 
-我是一名开发者，专注于**嵌入式系统、计算机视觉**，近期深耕 **AMD ROCm 生态下的大模型微调与部署**。喜欢把硬件能力和 AI 模型结合起来做有趣的项目——从 K230 芯片的边缘视觉检测，到 AMD 显卡上跑 Qwen3、Gemma4 的 LoRA 微调，再到给游戏角色训练专属 AI 助手。
+我是一名开发者，专注于**嵌入式系统、计算机视觉**，近期深耕**AMD ROCm 生态下的大模型微调与部署**。喜欢把硬件能力和 AI 模型结合起来做有趣的项目——从 K230 芯片的边缘视觉检测，到 AMD 显卡上跑 Qwen3、Gemma4 的 LoRA 微调，再到给游戏角色训练专属 AI 助手。
 
-- 🔭 当前在做：绝区零「仪玄」角色助手（Qwen3-4B + LoRA + vLLM + ZZZ 风格 WebUI）
-- 🌱 学习方向：AMD ROCm 生态、大模型微调与推理优化、RAG 检索增强
-- 💬 擅长：Python / PyTorch / LoRA / vLLM / C++ / 嵌入式开发
-- 📫 联系：GitHub Issues 或 CSDN [@Rainmeo](https://blog.csdn.net/m0_67166125)
-- ⚡ Fun fact: 用 AMD 显卡训大模型，性价比真的高
+- 当前在做：绝区零「仪玄」角色助手（Qwen3-4B + LoRA + vLLM + ZZZ 风格 WebUI）
+- 学习方向：AMD ROCm 生态、大模型微调与推理优化、RAG 检索增强
+- 擅长：Python / PyTorch / LoRA / vLLM / C++ / 嵌入式开发
+- 联系：GitHub Issues 或 CSDN [@Rainmeo](https://blog.csdn.net/m0_67166125)
+- Fun fact: 用 AMD 显卡训大模型，性价比真的高
 
 ---
 
-## 🚀 项目精选
+## 项目精选
 
-### 🤖 AI 大模型（AMD ROCm 方向）
+### AI 大模型（AMD ROCm 方向）
 
 <table>
 <tr>
 <td width="50%">
 
-**[zzz-yixuan-assistant](https://github.com/RainmeoX/zzz-yixuan-assistant)** 🎮
+**[zzz-yixuan-assistant](https://github.com/RainmeoX/zzz-yixuan-assistant)**
 
 绝区零「仪玄」角色助手后端
 
@@ -47,7 +47,7 @@ Qwen3-4B + LoRA 微调 + vLLM 部署 + RAG 检索 + 防 OOC 校验器
 </td>
 <td width="50%">
 
-**[zzz-yixuan-webui](https://github.com/RainmeoX/zzz-yixuan-webui)** 🎨
+**[zzz-yixuan-webui](https://github.com/RainmeoX/zzz-yixuan-webui)**
 
 绝区零「仪玄」角色助手前端
 
@@ -60,7 +60,7 @@ Qwen3-4B + LoRA 微调 + vLLM 部署 + RAG 检索 + 防 OOC 校验器
 <tr>
 <td width="50%">
 
-**[gemma4-emotion-lora-rocm](https://github.com/RainmeoX/gemma4-emotion-lora-rocm)** 🎭
+**[gemma4-emotion-lora-rocm](https://github.com/RainmeoX/gemma4-emotion-lora-rocm)**
 
 Gemma 4 E4B 情绪分类微调
 
@@ -71,7 +71,7 @@ Datawhale × AMD ROCm 实战，6 类情绪分类
 </td>
 <td width="50%">
 
-**[arknights-qwen-assistant](https://github.com/RainmeoX/arknights-qwen-assistant)** 🛡️
+**[arknights-qwen-assistant](https://github.com/RainmeoX/arknights-qwen-assistant)**
 
 明日方舟干员问答助手
 
@@ -83,13 +83,13 @@ Qwen3-0.6B + LoRA 微调
 </tr>
 </table>
 
-### 🔧 嵌入式与应用开发
+### 嵌入式与应用开发
 
 <table>
 <tr>
 <td width="50%">
 
-**[K230-Vision-System](https://github.com/RainmeoX/K230-Vision-System)** 👁️
+**[K230-Vision-System](https://github.com/RainmeoX/K230-Vision-System)**
 
 基于 K230 AI 芯片的视觉检测系统
 
@@ -100,7 +100,7 @@ Qwen3-0.6B + LoRA 微调
 </td>
 <td width="50%">
 
-**[wechat-mini-program](https://github.com/RainmeoX/wechat-mini-program)** 📱
+**[wechat-mini-program](https://github.com/RainmeoX/wechat-mini-program)**
 
 青智益村微信小程序
 
@@ -112,13 +112,13 @@ Qwen3-0.6B + LoRA 微调
 </tr>
 </table>
 
-### 📦 数据集与工具
+### 数据集与工具
 
 <table>
 <tr>
 <td width="50%">
 
-**[zzz-yixuan-dataset](https://github.com/RainmeoX/zzz-yixuan-dataset)** 📚
+**[zzz-yixuan-dataset](https://github.com/RainmeoX/zzz-yixuan-dataset)**
 
 绝区零仪玄角色资料数据集
 
@@ -129,7 +129,7 @@ Qwen3-0.6B + LoRA 微调
 </td>
 <td width="50%">
 
-**[Web-Security-Learning](https://github.com/RainmeoX/Web-Security-Learning)** 🔒
+**[Web-Security-Learning](https://github.com/RainmeoX/Web-Security-Learning)**
 
 网络安全学习项目
 
@@ -143,7 +143,7 @@ Qwen3-0.6B + LoRA 微调
 
 ---
 
-## 🛠️ 技术栈
+## 技术栈
 
 <div align="center">
 
@@ -164,7 +164,7 @@ Qwen3-0.6B + LoRA 微调
 
 ---
 
-## 📊 GitHub 统计
+## GitHub 统计
 
 <div align="center">
 
@@ -181,13 +181,13 @@ Qwen3-0.6B + LoRA 微调
 
 ---
 
-## 📝 最新文章
+## 最新文章
 
 <table>
 <tr>
 <td>
 
-📖 **[绝区零「仪玄」角色助手微调实录：AMD ROCm 单卡 + Qwen3-4B LoRA 全流程](https://blog.csdn.net/m0_67166125/article/details/162312178)**
+**[绝区零「仪玄」角色助手微调实录：AMD ROCm 单卡 + Qwen3-4B LoRA 全流程](https://blog.csdn.net/m0_67166125/article/details/162312178)**
 
 用 AMD RX 7900 XTX 单卡微调 Qwen3-4B，vLLM 部署 + RAG + 防 OOC，全流程实录
 
@@ -196,7 +196,7 @@ Qwen3-0.6B + LoRA 微调
 <tr>
 <td>
 
-📖 **[【实战】用纯前端打造绝区零风格 AI 角色助手 WebUI 并联调 vLLM](https://blog.csdn.net/m0_67166125/article/details/162312263)**
+**[【实战】用纯前端打造绝区零风格 AI 角色助手 WebUI 并联调 vLLM](https://blog.csdn.net/m0_67166125/article/details/162312263)**
 
 纯原生 HTML/CSS/JS 打造 ZZZ 风格 WebUI，流式对话 + RAG 开关 + vLLM 联调
 
@@ -208,6 +208,6 @@ Qwen3-0.6B + LoRA 微调
 
 <div align="center">
 
-**感谢访问我的主页！如果喜欢我的项目，欢迎 ⭐ Star 支持**
+**感谢访问我的主页！如果喜欢我的项目，欢迎 Star 支持**
 
 </div>
