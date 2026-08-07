@@ -18,13 +18,10 @@
 
 | 方向 | 技术 / 代表项目 |
 | --- | --- |
-| **AI Agent（本地私有 · 硬件研发）** | Radeon-Assistant「磐石」：AMD ROCm 本地 Agent，RAG + 工具调用 + **硬件场景特化**（Verilog / Testbench 生成、芯片手册解析） |
-| **LLM 微调（AMD ROCm）** | LoRA / PEFT；Gemma4 情绪分类 0.625 → 0.915、Qwen3-0.6B 干员问答（ROCm 单卡） |
-| **RAG / 推理部署（vLLM）** | zzz-yixuan 角色助手（★2）：数据集 → LoRA 微调 → vLLM 部署 → WebUI 全链路 |
-| **嵌入式视觉（硬件）** | **K230 AI 芯片**：图形 / 二维码检测 + UART 串口通信（硬件落地） |
-| **数据集 / 数据工程** | arknights-dataset（22k+ 问答对）、zzz-yixuan-dataset（多源爬取） |
-| **Web 全栈 / 前端** | Flask（canteen-order-system）、微信小程序、原生前端（zzz-yixuan-webui）、个人网站（anime-site） |
-| **网络安全** | Web-Security-Learning：SQL 注入 / XSS / CSRF / 文件上传 / 渗透测试 |
+| AI 大模型与 Agent（AMD ROCm） | LoRA / vLLM / RAG / Agent；Radeon-Assistant「磐石」本地私有 AI Agent（硬件研发特化）、zzz-yixuan 角色助手（★2） |
+| 嵌入式视觉（硬件） | K230 AI 芯片：图形 / 二维码检测 + UART 串口 |
+| Web 全栈与工程 | Flask（canteen-order-system）、微信小程序、原生前端（zzz-yixuan-webui）、个人网站（anime-site） |
+| 数据集 / 安全 / 工具 | arknights-dataset（22k+ 问答对）、Web-Security-Learning、avgforge |
 
 ## 重点项目
 
