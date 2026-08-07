@@ -11,20 +11,22 @@
 
 | 方向 | 进展 |
 | --- | --- |
-| **AMD ROCm Hackathon（硬件算力）** | [`Radeon-hackathon-2026-07`](https://github.com/RainmeoX/Radeon-hackathon-2026-07) · 2026-08 重点，运行于 **AMD GPU（ROCm）** |
+| **AMD ROCm Hackathon · 本地私有硬件 Agent** | [`Radeon-hackathon-2026-07`](https://github.com/RainmeoX/Radeon-hackathon-2026-07)（Radeon-Assistant「磐石」）· Track 2，运行于 **AMD Radeon Pro W7900（ROCm）** |
 | 角色助手全链路 | 数据集 → LoRA 微调 → vLLM 部署 → WebUI |
 
 ## 能力矩阵
 
 | 方向 | 技术 / 代表项目 |
 | --- | --- |
-| AI 大模型（AMD ROCm / GPU） | LoRA · PEFT · vLLM · RAG，运行于 **AMD ROCm 生态（非 CUDA）** |
+| **AI Agent（本地私有 · 硬件研发）** | Radeon-Assistant「磐石」：AMD ROCm 本地 Agent，RAG + 工具调用 + **硬件场景特化**（Verilog / Testbench 生成、芯片手册解析） |
+| AI 大模型（微调 / 部署） | LoRA · PEFT · vLLM · RAG · Qwen · Gemma |
 | 嵌入式视觉（硬件） | **K230 AI 芯片** · 图形检测 · UART 串口 |
 | 全栈开发 | Flask · 微信小程序 · 原生前端 |
 
 ## 重点项目
 
-**AI / 大模型（AMD ROCm · 硬件算力）**
+**AI Agent / 大模型（AMD ROCm）**
+- [`Radeon-hackathon-2026-07`](https://github.com/RainmeoX/Radeon-hackathon-2026-07) — Radeon-Assistant「磐石」，**本地私有 AI Agent**，运行于 AMD ROCm，特化**硬件研发**（Verilog / Testbench 生成、芯片手册 PDF 解析）（Track 2）
 - [`zzz-yixuan-assistant`](https://github.com/RainmeoX/zzz-yixuan-assistant) — Qwen3-4B + LoRA + vLLM + RAG 角色助手，部署于 **AMD GPU（ROCm）**（★2，链路最完整）
 - [`gemma4-emotion-lora-rocm`](https://github.com/RainmeoX/gemma4-emotion-lora-rocm) — Gemma4 LoRA 情绪分类，于 **AMD ROCm 单卡**训练，准确率 0.625 → 0.915
 - [`arknights-qwen-assistant`](https://github.com/RainmeoX/arknights-qwen-assistant) — Qwen3-0.6B 干员问答，**AMD ROCm 单卡**训练
@@ -61,4 +63,4 @@
 
 ## 说明
 
-项目多为边学边做的学习 / 实验性质。方向选择、架构设计、调试与部署由我本人完成；部分代码有 AI 辅助。仓库以真实工程记录为主，欢迎在 Issues 交流。
+项目多为边学边做的学习 / 实验性质，部分已落地到具体场景（如本地私有 AI Agent 的硬件研发特化）。方向选择、架构设计、调试与部署由我本人完成；部分代码有 AI 辅助。仓库以真实工程记录为主，欢迎在 Issues 交流。
