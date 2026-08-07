@@ -18,7 +18,7 @@
 
 | 方向 | 技术 / 代表项目 |
 | --- | --- |
-| AI 大模型与 Agent（AMD ROCm） | LoRA / vLLM / RAG / Agent；Radeon-Assistant「磐石」本地私有 AI Agent（硬件研发特化）、zzz-yixuan 角色助手（★2） |
+| AI 大模型与 Agent（AMD ROCm） | LoRA / vLLM / RAG / Agent；Radeon-Assistant「磐石」本地私有 AI Agent（硬件研发特化）、zzz-yixuan 角色助手 |
 | 嵌入式视觉（硬件） | K230 AI 芯片：图形 / 二维码检测 + UART 串口 |
 | Web 全栈与工程 | Flask（canteen-order-system）、微信小程序、原生前端（zzz-yixuan-webui）、个人网站（anime-site） |
 | 数据集 / 安全 / 工具 | arknights-dataset（22k+ 问答对）、Web-Security-Learning、avgforge |
@@ -27,7 +27,7 @@
 
 **AI Agent / 大模型（AMD ROCm）**
 - [`Radeon-hackathon-2026-07`](https://github.com/RainmeoX/Radeon-hackathon-2026-07) — Radeon-Assistant「磐石」，**本地私有 AI Agent**，运行于 AMD ROCm，特化**硬件研发**（Verilog / Testbench 生成、芯片手册 PDF 解析）（Track 2）
-- [`zzz-yixuan-assistant`](https://github.com/RainmeoX/zzz-yixuan-assistant) — Qwen3-4B + LoRA + vLLM + RAG 角色助手，部署于 **AMD GPU（ROCm）**（★2，链路最完整）
+- [`zzz-yixuan-assistant`](https://github.com/RainmeoX/zzz-yixuan-assistant) — Qwen3-4B + LoRA + vLLM + RAG 角色助手，部署于 **AMD GPU（ROCm）**
 - [`gemma4-emotion-lora-rocm`](https://github.com/RainmeoX/gemma4-emotion-lora-rocm) — Gemma4 LoRA 情绪分类，于 **AMD ROCm 单卡**训练，准确率 0.625 → 0.915
 - [`arknights-qwen-assistant`](https://github.com/RainmeoX/arknights-qwen-assistant) — Qwen3-0.6B 干员问答，**AMD ROCm 单卡**训练
 
